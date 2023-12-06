@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MocninyKalkulator", "MocninyKalkulator\MocninyKalkulator.csproj", "{1F1DE7BA-46CD-4B4C-8B02-18797375C442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F1DE7BA-46CD-4B4C-8B02-18797375C442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1DE7BA-46CD-4B4C-8B02-18797375C442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1DE7BA-46CD-4B4C-8B02-18797375C442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1DE7BA-46CD-4B4C-8B02-18797375C442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1235517-CD99-426C-BDF9-5083A948BC89}
+	EndGlobalSection
+EndGlobal
